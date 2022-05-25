@@ -19,9 +19,15 @@
 	.container {
 		@extend %flex-vertical;
 		max-height: 100vh;
-		padding: 0 15px;
 	}
 	main {
+		padding: 0 15px;
 		flex: 1 100vh;
+	}
+
+	:global {
+		p {
+			font-family: g.$font-body;
+		}
 	}
 </style>

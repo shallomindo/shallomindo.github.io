@@ -3,13 +3,15 @@
 </script>
 
 <header>
+    <div class="nav">
+        <Nav />
+    </div>
     <div id="title">
     <a href="/">
-        <img alt="Shallomindo Building Solutions" src="/favicon.png" />
+        <img alt="Shallomindo Building Solutions" src="/logo.svg" />
         Shallomindo Building Solutions
     </a>
     </div>
-    <Nav/>
 </header>
 
 <style lang="scss">
@@ -18,7 +20,19 @@
     header {
         @extend %flex-horizontal;
         align-items: center;
-        justify-content: space-around;
+        justify-content: center;
         margin-bottom: 10px;
+        padding: 0.8rem 0;
+        background-color: goldenrod;
+    }
+    a {
+        text-decoration: none;
+        @extend %flex-horizontal;
+        @extend %centering;
+        font-family: g.$font-logo;
+        img {
+            width: 3rem;
+            margin-right: 5px;
+        }
     }
 </style>
