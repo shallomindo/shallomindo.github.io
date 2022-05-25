@@ -24,3 +24,9 @@
     </ul>
     <p class="contactbtn"><a href="/contact">CONTACT US</a></p>
 </div>
+
+<style>
+    .contactbtn {
+        margin-top: 15px;
+    }
+</style>
