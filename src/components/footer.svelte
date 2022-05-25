@@ -4,7 +4,7 @@
         <p class="credit">site by <a href="https://github.com/hikaruisasleep/">ben</a></p>
     </div>
     <div class="socials">
-        <a href="/contact">w</a>
+        <a href="/contact"><i class="fa-brands fa-whatsapp"></i></a>
         <a href="/contact">f</a>
     </div>
 </footer>
@@ -16,7 +16,8 @@
         @extend %flex-horizontal;
         align-items: center;
         justify-content: space-between;
-        margin-bottom: 5px
+        margin-bottom: 5px;
+        padding: 0 5px;
     }
     
     .notice {
