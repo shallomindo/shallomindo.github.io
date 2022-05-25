@@ -1,16 +1,6 @@
 @use 'colors';
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Open+Sans:ital,wght@0,300;0,400;0,700;0,800;1,300;1,400;1,700;1,800&display=swap');
-@font-face {
-    font-family: 'Formal436BT';
-    src: url(/static/webfont/formal436bt-regular-webfont.woff2) format(woff2),
-		 url(/static/webfont/formal436bt-regular-webfont.woff) format(woff);
-		 
-}
-@font-face {
-	font-family: 'System San Fransisco Display';
-	src: url(/static/webfont/system_san_francisco_display_regular-webfont.woff2) format(woff2),
-		 url(/static/webfont/system_san_fransisco_display_regular-webfont.woff) format(woff);
-}
+
 
 $font-logo: 'Formal436BT', sans-serif;
 $font-head: 'Noto Sans JP', sans-serif;
