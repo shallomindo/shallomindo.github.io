@@ -1,0 +1,204 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-e535bed1.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/about.svelte",
+      "src/routes/contact.svelte",
+      "src/routes/index.svelte",
+      "src/routes/products/alderon.svelte",
+      "src/routes/products/bio2000.svelte",
+      "src/routes/products/damdex.svelte",
+      "src/routes/products/index.svelte",
+      "src/routes/products/insectscreen.svelte",
+      "src/routes/products/invideck.svelte",
+      "src/routes/products/kacafilm.svelte",
+      "src/routes/products/rooftank.svelte",
+      "src/routes/products/septictank.svelte",
+      "src/routes/products/shera.svelte",
+      "src/routes/products/upvc.svelte",
+      "src/routes/products/wpc.svelte",
+      "src/routes/products/yoshino.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-835200fa.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-470f8771.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-2a85533a.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/about.svelte": {
+    "file": "pages/about.svelte-dea5ac45.js",
+    "src": "src/routes/about.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ],
+    "css": [
+      "assets/pages/about.svelte-5365c2ca.css"
+    ]
+  },
+  "src/routes/contact.svelte": {
+    "file": "pages/contact.svelte-1280b248.js",
+    "src": "src/routes/contact.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ],
+    "css": [
+      "assets/pages/contact.svelte-8d19a50b.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-748932b7.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/alderon.svelte": {
+    "file": "pages/products/alderon.svelte-66de622d.js",
+    "src": "src/routes/products/alderon.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/bio2000.svelte": {
+    "file": "pages/products/bio2000.svelte-077a62fe.js",
+    "src": "src/routes/products/bio2000.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/damdex.svelte": {
+    "file": "pages/products/damdex.svelte-3057f6b2.js",
+    "src": "src/routes/products/damdex.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/index.svelte": {
+    "file": "pages/products/index.svelte-e1cbe10a.js",
+    "src": "src/routes/products/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/insectscreen.svelte": {
+    "file": "pages/products/insectscreen.svelte-962c5278.js",
+    "src": "src/routes/products/insectscreen.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/invideck.svelte": {
+    "file": "pages/products/invideck.svelte-8ddbffb3.js",
+    "src": "src/routes/products/invideck.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/kacafilm.svelte": {
+    "file": "pages/products/kacafilm.svelte-fc5ce72c.js",
+    "src": "src/routes/products/kacafilm.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/rooftank.svelte": {
+    "file": "pages/products/rooftank.svelte-88d474a5.js",
+    "src": "src/routes/products/rooftank.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/septictank.svelte": {
+    "file": "pages/products/septictank.svelte-f37b9b6f.js",
+    "src": "src/routes/products/septictank.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/shera.svelte": {
+    "file": "pages/products/shera.svelte-9c84b1b9.js",
+    "src": "src/routes/products/shera.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/upvc.svelte": {
+    "file": "pages/products/upvc.svelte-fd94ccf6.js",
+    "src": "src/routes/products/upvc.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/wpc.svelte": {
+    "file": "pages/products/wpc.svelte-2728c7f6.js",
+    "src": "src/routes/products/wpc.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "src/routes/products/yoshino.svelte": {
+    "file": "pages/products/yoshino.svelte-47f7ad78.js",
+    "src": "src/routes/products/yoshino.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f1db066b.js"
+    ]
+  },
+  "_index-f1db066b.js": {
+    "file": "chunks/index-f1db066b.js"
+  }
+}

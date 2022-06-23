@@ -1,13 +1,19 @@
 import { publish } from 'gh-pages';
 
+const repo = 'https://github.com/shallomindo/shallomindo.info.git';
+let name = 'shallomindo';
+let email = 'info.shallomindo@gmail.com';
+
+console.log(`Deploying to ${repo} as ${name} (${email})`)
+
 publish(
  'build', // path to public directory
  {
   branch: 'gh-pages',
-  repo: 'https://github.com/shallomindo/shallomindo.info.git', // Update to point to your repository
+  repo, // Update to point to your repository
   user: {
-   name: 'Ben Wu', // update to use your name
-   email: 'benayaj.2004@gmail.com' // Update to use your email
+   name, // update to use your name
+   email // Update to use your email
   },
   dotfiles: true
   },
