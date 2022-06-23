@@ -1,5 +1,5 @@
 <div id="container">
-    <h2>products</h2>
+    <h2>Products</h2>
     <ul>
         <li><a href="/products/insectscreen">Kasa Nyamuk</a></li>
         <li><a href="/products/damdex">DAMDEX</a></li>
