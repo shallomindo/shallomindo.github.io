@@ -30,21 +30,19 @@
 		text-decoration: none;
 		@extend %flex-horizontal;
 		@extend %centering;
-		font-family: g.$font-logo;
-		font-size: 1.5rem;
 		img {
 			width: 5rem;
 			margin-right: 5px;
 		}
 	}
-	a:link {
-		color: colors.$nord9;
-	}
-	a:visited {
-		color: colors.$nord9;
-	}
-	a:hover {
-		color: colors.$nord9;
+
+	p, a {
+        color: colors.$nord9;
+    }
+
+	p {
+		font-family: g.$font-logo;
+		font-size: 1.5rem;
 	}
 
     @media only screen and (max-width: 570px) {
