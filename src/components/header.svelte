@@ -45,7 +45,7 @@
 		font-size: 1.5rem;
 	}
 
-    @media only screen and (max-width: 570px) {
+    @media only screen and (orientation: portrait) {
         p.name {
             display: none;
         }

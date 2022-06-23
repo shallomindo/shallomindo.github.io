@@ -76,7 +76,7 @@
 	}
 
 	:global() {
-		@media only screen and (max-width: 570px) {
+		@media only screen and (orientation: portrait) {
 			
 		}
 	}
