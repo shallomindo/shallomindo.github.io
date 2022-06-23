@@ -1,5 +1,4 @@
 import { publish } from 'gh-pages';
-import { isExternalModule } from 'typescript';
 
 const repo = 'https://github.com/shallomindo/shallomindo.info.git';
 let name = 'Ben Wu';
