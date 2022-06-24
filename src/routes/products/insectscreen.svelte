@@ -1,4 +1,13 @@
 <div class="container">
     <h2>Kasa Nyamuk</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil minus quasi tempora. Placeat debitis eaque incidunt saepe, et veniam expedita dolorum dignissimos repellendus explicabo assumenda fuga officia aut quaerat recusandae!</p>
+    <p>
+        Kawat Anti Nyamuk dengan bahan dasar fiberglass (standard) dan aluminium (miniflex).
+        <br>
+        Tersedia dalam 2 warna (Putih & Coklat).
+        <br>
+        Tersedia juga Screen Port (Jendela Kecil) untuk membuka/menutup daun jendela.
+        <br>
+        Harga dihitung berdasarkan meter persegi sesuai tabel yang tercetak pada brosur
+    </p>
+    <p class="small">TODO: masukin brosur</p>
 </div>

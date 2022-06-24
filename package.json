@@ -34,6 +34,7 @@
   "type": "module",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
-    "svelte-burger-menu": "^1.0.5"
+    "svelte-burger-menu": "^1.0.5",
+    "svelte-media-query": "^1.1.2"
   }
 }

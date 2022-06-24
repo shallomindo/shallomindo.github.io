@@ -6,7 +6,7 @@
 	<div id="title">
 		<a href="/">
 			<img alt="Shallomindo Building Solutions" src="/logo.svg" />
-            <p class="name">Shallomindo Building Solutions</p>
+			<p class="name">Shallomindo Building Solutions</p>
 		</a>
 	</div>
 	<div class="nav">
@@ -22,10 +22,16 @@
 		@extend %flex-horizontal;
 		align-items: center;
 		justify-content: space-around;
-		margin-bottom: 10px;
 		padding: 0.8rem 0;
 		background-color: colors.$nord0;
 	}
+
+	@media only screen and (orientation: portrait) {
+		p.name {
+			display: none;
+		}
+	}
+
 	a {
 		text-decoration: none;
 		@extend %flex-horizontal;
@@ -36,18 +42,10 @@
 		}
 	}
 
-	p, a {
-        color: colors.$nord9;
-    }
-
-	p {
+	p,
+	a {
+		color: colors.$nord9;
 		font-family: g.$font-logo;
 		font-size: 1.5rem;
-	}
-
-    @media only screen and (orientation: portrait) {
-        p.name {
-            display: none;
-        }
 	}
 </style>
