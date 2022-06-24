@@ -34,7 +34,7 @@
             font-size: small;
         }
         .credit {
-            font-size: x-small;
+            font-size: 8.5px;
         }
     }
 

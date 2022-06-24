@@ -1,5 +1,5 @@
 <div id="container">
-    <h2>About</h2>
+    <h2>About Us</h2>
     <p>
         Shallomindo Building Solutions (PT. Shallomindo EkaRaja Abadi) mulai berdiri pada tanggal 02 Februari 2002 dengan nama Shallom Interior yang memulai usaha sebagai agen produk interior dengan merk Onna di Batam, meningkatkan status menjadi Perseroan Terbatas (PT) Shallomindo EkaRaja Abadi sejak Agustus 2006 dengan pengembangan bidang usaha serta diversifikasi produk-produk untuk bangunan & interior yang dengan spesifikasi khusus & dibuat dengan teknologi serta inovasi terbaru untuk melengkapi material bahan bangunan konvensional.
     </p>

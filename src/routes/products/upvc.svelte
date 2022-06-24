@@ -1,4 +1,10 @@
 <div class="container">
-    <h2>Kusen Pintu & Jendela UPVC</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil minus quasi tempora. Placeat debitis eaque incidunt saepe, et veniam expedita dolorum dignissimos repellendus explicabo assumenda fuga officia aut quaerat recusandae!</p>
+	<h2>Kusen Pintu & Jendela UPVC</h2>
+	<p>
+		UPVC (Unplasticised Polyvinyl Chloride) adalah bahan yang tahan dengan berbagai kondisi cuaca
+		sebagai pengganti kayu & aluminium, memberikan kesan mewah dan kokoh serta anti rayap, anti
+		bising, anti bocor, tahan terhadap asam, garam & karat, sehingga bebas perawatan.
+		<br />
+		Sangat cocok dengan kondisi di Batam.
+	</p>
 </div>
